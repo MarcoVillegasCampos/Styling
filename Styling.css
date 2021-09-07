@@ -17,10 +17,19 @@ h2{
     color: white;
     background-color: blueviolet;
     text-align: center;
-    
+    padding: 15px;
 
 
 
 
+
+
+}
+h3{
+    color: black;
+    background-color:lightblue;
+
+    text-align: right;
+    padding: 15px;
 
 }
